@@ -29,6 +29,7 @@
         <img platform="ios" src="www/img/icon1.7aed76dc.png" />
         <img platform="ios" src="www/img/icon3.495ec318.png" />
         <img platform="ios" src="www/img/show.00c123bd.png" />
-
+        <south-file src="www/css/index.86724d2b.css.map" />
+        <south-file src="www/js/index.f5e9e804.js.map" />
     </platform>
 </widget>
