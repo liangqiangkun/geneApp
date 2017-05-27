@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HelloCordova</name>
+    <description>
+        A sample Apache Cordova application that responds to the deviceready event.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="www/index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+        <img platform="ios" src="www/img/add.e1ede031.png" />
+        <img platform="ios" src="www/img/back.678ba07c.png" />
+        <img platform="ios" src="www/img/banner.e89d46b5.png" />
+        <img platform="ios" src="www/img/bot1_on.6c992e89.png" />
+        <img platform="ios" src="www/img/bot2.71dafdf9.png" />
+        <img platform="ios" src="www/img/bot3.3638ba7a.png" />
+        <img platform="ios" src="www/img/favicon.ico" />
+        <img platform="ios" src="www/img/icon1.7aed76dc.png" />
+        <img platform="ios" src="www/img/icon3.495ec318.png" />
+        <img platform="ios" src="www/img/show.00c123bd.png" />
+
+    </platform>
+</widget>
